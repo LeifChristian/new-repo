@@ -1,0 +1,10 @@
+*node_modules/*
+*node_modules
+*node_modules*
+*.zip
+*.jpg
+*.mp4
+*.mp3
+*img
+*.git
+
