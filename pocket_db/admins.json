@@ -1,0 +1,56 @@
+[{
+	"__v" : 0.0,
+	"_id" : ObjectId("599d38c27f17b519cd2e9ded"),
+	"admin_createdDate" : ISODate("2017-08-23T13:41:46.570+05:30"),
+	"admin_email" : "admin@gmail.com",
+	"admin_name" : "Admin",
+	"admin_password" : "123456",
+	"admin_role" : "1"
+},
+{
+	"__v" : 0.0,
+	"_id" : ObjectId("599ed4acfa2cf63f183c913f"),
+	"admin_createdDate" : ISODate("2017-08-24T18:59:16.692+05:30"),
+	"admin_email" : "test@gmail.com",
+	"admin_name" : "subadmin2",
+	"admin_password" : "123456",
+	"admin_role" : "2",
+	"admin_status" : "1"
+},
+{
+	"__v" : 0.0,
+	"_id" : ObjectId("599ffba0d298e92ea843d8c6"),
+	"admin_createdDate" : ISODate("2017-08-25T15:57:44.398+05:30"),
+	"admin_email" : "test123@gmail.com",
+	"admin_name" : "subadmin2",
+	"admin_password" : "123456",
+	"admin_role" : "2",
+	"admin_status" : "1"
+},
+{
+	"_id" : ObjectId("599ffbea8dede12ed8929c35"),
+	"admin_email" : "test1234@gmail.com",
+	"admin_password" : "123456",
+	"admin_role" : 2.0,
+	"admin_status" : "1"
+},
+{
+	"__v" : 0.0,
+	"_id" : ObjectId("59a6be40e1527b19cb0e6832"),
+	"admin_createdDate" : ISODate("2017-08-30T19:01:44.274+05:30"),
+	"admin_email" : "asdsaddsad@gmail.com",
+	"admin_name" : "assending",
+	"admin_password" : "123456",
+	"admin_role" : "2",
+	"admin_status" : "1"
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a0eac2432693c55536e713b"),
+	"admin_createdDate" : ISODate("2017-11-17T15:00:12.329+05:30"),
+	"admin_email" : "ankush.ypsilon@gmail.com",
+	"admin_name" : "Ankush",
+	"admin_password" : "123456",
+	"admin_role" : "2",
+	"admin_status" : "1"
+}]

@@ -1,0 +1,216 @@
+[{
+	"__v" : 0,
+	"_id" : ObjectId("5a1e848b001cbf01cbe432e8"),
+	"task_id" : ObjectId("5a1e848b001cbf01cbe432e7"),
+	"taskAssignedUser_id" : ObjectId("59f96724da7f31635c892ca9")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a1e848b001cbf01cbe432e9"),
+	"task_id" : ObjectId("5a1e848b001cbf01cbe432e7"),
+	"taskAssignedUser_id" : ObjectId("599eb4afe3882634d7b76f58")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a1e8c67d0f79e029e2c853a"),
+	"task_id" : ObjectId("5a1e8c67d0f79e029e2c8539"),
+	"taskAssignedUser_id" : ObjectId("59fc1380f31ea70c2247dbc8")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a1e8c8bd0f79e029e2c853c"),
+	"task_id" : ObjectId("5a1e8c8bd0f79e029e2c853b"),
+	"taskAssignedUser_id" : ObjectId("59fc1380f31ea70c2247dbc8")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a1e90f7d0f79e029e2c853e"),
+	"task_id" : ObjectId("5a1e90f7d0f79e029e2c853d"),
+	"taskAssignedUser_id" : ObjectId("59fc1380f31ea70c2247dbc8")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a1e9733d0f79e029e2c8540"),
+	"task_id" : ObjectId("5a1e9733d0f79e029e2c853f"),
+	"taskAssignedUser_id" : ObjectId("59a3b66acfb90b1585f828ff")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a1e9733d0f79e029e2c8541"),
+	"task_id" : ObjectId("59f96724da7f31635c892ca9"),
+	"taskAssignedUser_id" : ObjectId("599eb4afe3882634d7b76f58")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a1e987dd0f79e029e2c8543"),
+	"task_id" : ObjectId("5a1e987dd0f79e029e2c8542"),
+	"taskAssignedUser_id" : ObjectId("59fc1380f31ea70c2247dbc8")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a1eaeb9848606041fc3a7b8"),
+	"task_id" : ObjectId("5a1eaeb9848606041fc3a7b7"),
+	"taskAssignedUser_id" : ObjectId("59fc1380f31ea70c2247dbc8")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a251dd3f9f98005c16f60e5"),
+	"task_id" : ObjectId("5a251dd3f9f98005c16f60e4"),
+	"taskAssignedUser_id" : ObjectId("59fc1380f31ea70c2247dbc8")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a264b1df9f98005c16f60f2"),
+	"task_id" : ObjectId("5a264b1df9f98005c16f60f1"),
+	"taskAssignedUser_id" : ObjectId("59fc1380f31ea70c2247dbc8")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a264e3554f4aa6d8a28f2cc"),
+	"task_id" : ObjectId("5a264e3554f4aa6d8a28f2cb"),
+	"taskAssignedUser_id" : ObjectId("59fc1380f31ea70c2247dbc8")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a2679e5632e6b733af255a4"),
+	"task_id" : ObjectId("5a2679e5632e6b733af255a3"),
+	"taskAssignedUser_id" : ObjectId("59fc1380f31ea70c2247dbc8")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a2679e5632e6b733af255a5"),
+	"task_id" : ObjectId("5a2679e5632e6b733af255a3"),
+	"taskAssignedUser_id" : ObjectId("59f96724da7f31635c892ca9")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a268093dd59d6775bd70ba7"),
+	"task_id" : ObjectId("5a268093dd59d6775bd70ba6"),
+	"taskAssignedUser_id" : ObjectId("59f96724da7f31635c892ca9")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a268093dd59d6775bd70ba8"),
+	"task_id" : ObjectId("5a268093dd59d6775bd70ba6"),
+	"taskAssignedUser_id" : ObjectId("59fc1380f31ea70c2247dbc8")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a26a31685d9e17ea1352c82"),
+	"task_id" : ObjectId("5a26a31685d9e17ea1352c81"),
+	"taskAssignedUser_id" : ObjectId("59fc1380f31ea70c2247dbc8")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a26bec80b3a7b7f9375abef"),
+	"task_id" : ObjectId("5a26bec80b3a7b7f9375abee"),
+	"taskAssignedUser_id" : ObjectId("5a08ca0cb24ed75efa27709b")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a275fcb0b3a7b7f9375abf2"),
+	"task_id" : ObjectId("5a275fcb0b3a7b7f9375abf1"),
+	"taskAssignedUser_id" : ObjectId("5a08ca0cb24ed75efa27709b")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a2ada1682a8b81773682155"),
+	"task_id" : ObjectId("5a2ada1682a8b81773682154"),
+	"taskAssignedUser_id" : ObjectId("5a08ca0cb24ed75efa27709b")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a2e594582a8b81773682161"),
+	"task_id" : ObjectId("5a2e594582a8b81773682160"),
+	"taskAssignedUser_id" : ObjectId("59fc1380f31ea70c2247dbc8")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a2e594582a8b81773682162"),
+	"task_id" : ObjectId("5a2e594582a8b81773682160"),
+	"taskAssignedUser_id" : ObjectId("59f96724da7f31635c892ca9")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a30f22f65046c12f3a38f89"),
+	"task_id" : ObjectId("5a30f22f65046c12f3a38f88"),
+	"taskAssignedUser_id" : ObjectId("5a30ea1265046c12f3a38f63")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a310ba2fa5f092437901180"),
+	"task_id" : ObjectId("5a310ba2fa5f09243790117f"),
+	"taskAssignedUser_id" : ObjectId("5a30ea1265046c12f3a38f63")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a338be311cc803b23e0643a"),
+	"task_id" : ObjectId("5a338be311cc803b23e06439"),
+	"taskAssignedUser_id" : ObjectId("59fc1380f31ea70c2247dbc8")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a338be311cc803b23e0643b"),
+	"task_id" : ObjectId("5a338be311cc803b23e06439"),
+	"taskAssignedUser_id" : ObjectId("59f96724da7f31635c892ca9")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a33a8ad11cc803b23e06447"),
+	"task_id" : ObjectId("5a33a8ad11cc803b23e06446"),
+	"taskAssignedUser_id" : ObjectId("5a005eea380d7970b4f80588")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a33a90411cc803b23e06449"),
+	"task_id" : ObjectId("5a33a90411cc803b23e06448"),
+	"taskAssignedUser_id" : ObjectId("5a005eea380d7970b4f80588")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a33cef89dc6f262245e2a85"),
+	"task_id" : ObjectId("5a33cef89dc6f262245e2a84"),
+	"taskAssignedUser_id" : ObjectId("5a339ebd11cc803b23e0643f")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a33fbca28708c7513060b2d"),
+	"task_id" : ObjectId("5a33fbca28708c7513060b2c"),
+	"taskAssignedUser_id" : ObjectId("5a33fb6028708c7513060b28")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a33fc1a28708c7513060b2f"),
+	"task_id" : ObjectId("5a33fc1a28708c7513060b2e"),
+	"taskAssignedUser_id" : ObjectId("5a33fb6028708c7513060b28")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a34b72428708c7513060b31"),
+	"task_id" : ObjectId("5a34b72428708c7513060b30"),
+	"taskAssignedUser_id" : ObjectId("5a2f6d5782a8b8177368216e")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a38e31828708c7513060b46"),
+	"task_id" : ObjectId("5a38e31828708c7513060b45"),
+	"taskAssignedUser_id" : ObjectId("5a005eea380d7970b4f80588")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a40b0ce649d221ad96a617f"),
+	"task_id" : ObjectId("5a40b0ce649d221ad96a617e"),
+	"taskAssignedUser_id" : ObjectId("5a33fb6028708c7513060b28")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a41ebd49f753921f461a732"),
+	"task_id" : ObjectId("5a41ebd49f753921f461a731"),
+	"taskAssignedUser_id" : ObjectId("5a005eea380d7970b4f80588")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a6e57bfc43f0224ba7972c3"),
+	"task_id" : ObjectId("5a6e57bfc43f0224ba7972c2"),
+	"taskAssignedUser_id" : ObjectId("5a00843115e59873e088a791")
+}]

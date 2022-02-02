@@ -1,0 +1,444 @@
+{
+    "__v" : 0,
+    "__v" : 0,
+    "_id" : ObjectId("5ab0b76c9a2787e83c30e2bb"),
+    "aboutUs" : null,
+    "age" : null,
+    "agree" : true,
+    "appFeedBack" : null,
+    "birthDay" : "32",
+    "concludeTherapy" : [ 
+        {
+            "allMessage" : [ 
+                {
+                    "senderId" : "5ab0b76c9a2787e83c30e2bb",
+                    "avatar" : "http://192.168.0.121:8000/3YAIs5CQUc333QH0YAlJrheuO.jpeg",
+                    "_id" : 1527509957063.0,
+                    "text" : "hey..11.",
+                    "createdAt" : "2018-05-28T12:19:17.063Z",
+                    "user" : {
+                        "_id" : "5ab0b76c9a2787e83c30e2bb"
+                    }
+                }, 
+                {
+                    "senderId" : "5ab0b76c9a2787e83c30e2bb",
+                    "avatar" : "http://192.168.0.121:8000/3YAIs5CQUc333QH0YAlJrheuO.jpeg",
+                    "_id" : 1527509957063.0,
+                    "text" : "hey22... How r u??",
+                    "createdAt" : "2018-05-28T12:19:17.063Z",
+                    "user" : {
+                        "_id" : "5ab0b76c9a2787e83c30e2bb"
+                    }
+                }, 
+                {
+                    "senderId" : "5ab0b76c9a2787e83c30e2bb",
+                    "avatar" : "http://192.168.0.121:8000/3YAIs5CQUc333QH0YAlJrheuO.jpeg",
+                    "_id" : 1527509957063.0,
+                    "text" : "will see u soon.... o22k??",
+                    "createdAt" : "2018-05-28T12:19:17.063Z",
+                    "user" : {
+                        "_id" : "5ab0b76c9a2787e83c30e2bb"
+                    }
+                }
+            ],
+            "startDate" : "2018-06-08T16:57:39.152",
+            "endDate" : "2018-06-18T16:57:39.152",
+            "userID" : "5ae1691241ce6c991f45b7fc"
+        }, 
+        {
+            "allMessage" : [ 
+                {
+                    "senderId" : "5ab0b76c9a2787e83c30e2bb",
+                    "avatar" : "http://192.168.0.121:8000/3YAIs5CQUc333QH0YAlJrheuO.jpeg",
+                    "_id" : 1527509957063.0,
+                    "text" : "hey...",
+                    "createdAt" : "2018-05-28T12:19:17.063Z",
+                    "user" : {
+                        "_id" : "5ab0b76c9a2787e83c30e2bb"
+                    }
+                }, 
+                {
+                    "senderId" : "5ab0b76c9a2787e83c30e2bb",
+                    "avatar" : "http://192.168.0.121:8000/3YAIs5CQUc333QH0YAlJrheuO.jpeg",
+                    "_id" : 1527509957063.0,
+                    "text" : "hey... How r u??",
+                    "createdAt" : "2018-05-28T12:19:17.063Z",
+                    "user" : {
+                        "_id" : "5ab0b76c9a2787e83c30e2bb"
+                    }
+                }, 
+                {
+                    "senderId" : "5ab0b76c9a2787e83c30e2bb",
+                    "avatar" : "http://192.168.0.121:8000/3YAIs5CQUc333QH0YAlJrheuO.jpeg",
+                    "_id" : 1527509957063.0,
+                    "text" : "will see u soon.... ok??",
+                    "createdAt" : "2018-05-28T12:19:17.063Z",
+                    "user" : {
+                        "_id" : "5ab0b76c9a2787e83c30e2bb"
+                    }
+                }
+            ],
+            "startDate" : "2018-06-08T16:57:39.152",
+            "endDate" : "2018-06-18T16:57:39.152",
+            "userID" : "5ab0a4c6f4c20fb52853b578"
+        }
+    ],
+    "concludeTherapyList" : [ 
+        "5ae1691241ce6c991f45b7fc", 
+        "5ab0a4c6f4c20fb52853b578"
+    ],
+    "contact" : 918980906476.0,
+    "contactVerified" : true,
+    "createdAt" : "Mon May 14 2018 10:17:47 GMT+0530",
+    "defaultReminders" : "1 HOURS BEFORE",
+    "defaultView" : "List",
+    "deviceID" : "b7a0f7c83bfa7d5c",
+    "education" : {
+        "finishingYear" : "2013",
+        "faculty" : "abc"
+    },
+    "endSessionFlag" : true,
+    "fullname" : "hiten",
+    "gender" : "Male",
+    "healthInsurance" : false,
+    "holidays" : {
+        "untill" : "26/4/2018",
+        "from" : "27/4/2018"
+    },
+    "holidaysFlag" : false,
+    "location" : [ 
+        {
+            "address" : "Sachin Apparel Park SEZ., Sachin, Surat, Gujarat 394235, India",
+            "latitude" : 21.0832403,
+            "longitude" : 72.9017603,
+            "city" : "Surat",
+            "country" : "India",
+            "_id" : ObjectId("5ac49cd85bb9e8c1582ad540")
+        }, 
+        {
+            "address" : "Geeta Nagar Rd, Geeta Nagar, Vapi, Gujarat 396191, India",
+            "latitude" : 20.3734891,
+            "longitude" : 72.9084688,
+            "city" : "Vapi",
+            "country" : "India",
+            "_id" : ObjectId("5ac49cd85bb9e8c1582ad53f")
+        }, 
+        {
+            "address" : "Siberia, Russia",
+            "latitude" : 61.0137097,
+            "longitude" : 99.1966559,
+            "country" : "Russia",
+            "_id" : ObjectId("5ac49cd85bb9e8c1582ad53e")
+        }
+    ],
+    "mail" : "hiten@gmail.com",
+    "mailVerified" : false,
+    "mindcentralcode" : "",
+    "notificationData" : {
+        "fullname" : "Avni",
+        "profilepic" : null,
+        "time" : "Thu Mar 22 2018 17:57:04 GMT+0530 (IST)",
+        "body" : " has request for providing therapy",
+        "title" : "Invitation",
+        "_id" : ObjectId("5ab3a1183732e02770ac2641")
+    },
+    "notificationSetting" : {
+        "genearalAppNotifications" : false,
+        "clientSendMessage" : false,
+        "clientMadeBooking" : false
+    },
+    "officePhotos" : [ 
+        "http://192.168.0.116:8000/WB01kScrro7Qab6twNOEGJoHC.png"
+    ],
+    "onGoingEducation" : "NO",
+    "password" : "$2a$08$.CFJOdHC2tCVyeDrfeGaQ..kDt5YDx5WV8rM5pTOz5wkkDGBlr.6.",
+    "postGraduate" : [ 
+        "Master"
+    ],
+    "postGraduateOthers" : null,
+    "profession" : "Psychiatrist / Medical doctor",
+    "profilepic" : "http://192.168.0.121:8000/3YAIs5CQUc333QH0YAlJrheuO.jpeg",
+    "pushToken" : "f8XiC39dHz4:APA91bFJNYWkpvNEST40dPecYmU8peDWBDvUVhajdxwm6CJlBHViYiXOUtPiksvmWwb5qYY6ytTlFUNMTTJds6X5AbyNqZiDPfn_qgDnx2XIzsaigbjZhNFG1t2AfUwa2frSlQfbJQNl",
+    "rating" : [ 
+        {
+            "time" : "Sat Jun 09 2018 14:09:23 GMT+0530 (IST)",
+            "review" : "nice .....    by the therapist",
+            "professionalRating" : "1",
+            "emphatyRating" : "1",
+            "overallRating" : "1",
+            "visibility" : true,
+            "fullname" : "admin",
+            "userID" : "5ab0a4c6f4c20f652853b578",
+            "_id" : ObjectId("5afd57a67248f34f757312fe")
+        }, 
+        {
+            "time" : "Thu May 17 2018 15:51:26 GMT+0530 (IST)",
+            "review" : "nice .....",
+            "professionalRating" : "5",
+            "emphatyRating" : "5",
+            "overallRating" : "5",
+            "visibility" : true,
+            "fullname" : "Avni",
+            "userID" : "5ab0a4c6f4c20fb5e853b578",
+            "_id" : ObjectId("5afd57a67248f34f757312fe")
+        }, 
+        {
+            "time" : "Thu May 17 2018 15:55:25 GMT+0530 (IST)",
+            "review" : "nice .....",
+            "professionalRating" : "5",
+            "emphatyRating" : "3",
+            "overallRating" : "4",
+            "visibility" : true,
+            "fullname" : "GCK",
+            "userID" : "5ae1691241c06c991f45b7fc",
+            "_id" : ObjectId("5afd58959be8885b76f46974")
+        }, 
+        {
+            "time" : "Thu May 17 2018 15:51:26 GMT+0530 (IST)",
+            "review" : "nice .....",
+            "professionalRating" : "5",
+            "emphatyRating" : "5",
+            "overallRating" : "5",
+            "visibility" : true,
+            "fullname" : "Avni",
+            "userID" : "5ab0a4c6f4c20fb52803b578",
+            "_id" : ObjectId("5afd57a67248f34f757312fe")
+        }, 
+        {
+            "time" : "Thu May 17 2018 15:55:25 GMT+0530 (IST)",
+            "review" : "nice .....",
+            "professionalRating" : "5",
+            "emphatyRating" : "3",
+            "overallRating" : "4",
+            "visibility" : true,
+            "fullname" : "GCK",
+            "userID" : "5ae1691241ce6c911f45b7fc",
+            "_id" : ObjectId("5afd58959be8885b76f46974")
+        }, 
+        {
+            "time" : "Thu May 17 2018 15:51:26 GMT+0530 (IST)",
+            "review" : "nice .....",
+            "professionalRating" : "5",
+            "emphatyRating" : "5",
+            "overallRating" : "5",
+            "visibility" : true,
+            "fullname" : "Avni",
+            "userID" : "5ab0a4c6f4c20fb52053b578",
+            "_id" : ObjectId("5afd57a67248f34f757312fe")
+        }, 
+        {
+            "time" : "Wed Jun 20 2018 17:37:28 GMT+0530 (IST)",
+            "review" : "ok",
+            "professionalRating" : "3",
+            "emphatyRating" : "4",
+            "overallRating" : "3.5",
+            "fullname" : "GCK",
+            "userID" : "5ae1691241ce6c991f45b7fc",
+            "_id" : ObjectId("5b2a43800eeb5f910ef07ec0"),
+            "visibility" : true
+        }
+    ],
+    "report" : [ 
+        {
+            "time" : "Mon May 21 2018 10:21:17 GMT+0530 (IST)",
+            "text" : "not good",
+            "fullname" : "GCK",
+            "userID" : "5ae1691241ce60991f45b7fc",
+            "_id" : ObjectId("5b0250454895a33d2238e820")
+        }, 
+        {
+            "time" : "Mon May 21 2018 10:21:17 GMT+0530 (IST)",
+            "text" : "not good",
+            "fullname" : "GCK",
+            "userID" : "5ae1691241cl6c991f45b7fc",
+            "_id" : ObjectId("5b0250454895a33d2238e820")
+        }, 
+        {
+            "time" : "Mon May 21 2018 10:21:17 GMT+0530 (IST)",
+            "text" : "not good",
+            "fullname" : "GCK",
+            "userID" : "5ae1691241ce6c891f45b7fc",
+            "_id" : ObjectId("5b0250454895a33d2238e820")
+        }, 
+        {
+            "time" : "Mon May 21 2018 10:21:17 GMT+0530 (IST)",
+            "text" : "not good",
+            "fullname" : "GCK",
+            "userID" : "5ae1691241ce65991f45b7fc",
+            "_id" : ObjectId("5b0250454895a33d2238e820")
+        }, 
+        {
+            "time" : "Mon May 21 2018 10:21:17 GMT+0530 (IST)",
+            "text" : "not good",
+            "fullname" : "GCK",
+            "userID" : "5ae1691241cm6c991f45b7fc",
+            "_id" : ObjectId("5b0250454895a33d2238e820")
+        }, 
+        {
+            "time" : "Mon May 21 2018 10:21:17 GMT+0530 (IST)",
+            "text" : "not good",
+            "fullname" : "GCK",
+            "userID" : "5ae1691241ceuc991f45b7fc",
+            "_id" : ObjectId("5b0250454895a33d2238e820")
+        }, 
+        {
+            "time" : "Mon May 21 2018 10:21:17 GMT+0530 (IST)",
+            "text" : "not good",
+            "fullname" : "GCK",
+            "userID" : "5ae169124pce6c991f45b7fc",
+            "_id" : ObjectId("5b0250454895a33d2238e820")
+        }, 
+        {
+            "time" : "Mon May 21 2018 10:21:17 GMT+0530 (IST)",
+            "text" : "not good",
+            "fullname" : "GCK",
+            "userID" : "5ae169p241ce6c991f45b7fc",
+            "_id" : ObjectId("5b0250454895a33d2238e820")
+        }, 
+        {
+            "time" : "Mon May 21 2018 10:21:17 GMT+0530 (IST)",
+            "text" : "not good",
+            "fullname" : "GCK",
+            "userID" : "5ae1691241ce6c991f45b7fc",
+            "_id" : ObjectId("5b0250454895a33d2238e820")
+        }, 
+        {
+            "time" : "Mon May 21 2018 10:21:17 GMT+0530 (IST)",
+            "text" : "not good",
+            "fullname" : "GCK",
+            "userID" : "5ae1691241ce6c991f45b7fc",
+            "_id" : ObjectId("5b0250454895a33d2238e820")
+        }, 
+        {
+            "time" : "Mon May 21 2018 10:21:17 GMT+0530 (IST)",
+            "text" : "not good",
+            "fullname" : "GCK",
+            "userID" : "5ae1691241ce6c991f45b7fc",
+            "_id" : ObjectId("5b0250454895a33d2238e820")
+        }, 
+        {
+            "time" : "Mon May 21 2018 10:21:17 GMT+0530 (IST)",
+            "text" : "not good",
+            "fullname" : "GCK",
+            "userID" : "5ae1691241ce6c991f45b7fc",
+            "_id" : ObjectId("5b0250454895a33d2238e820")
+        }, 
+        {
+            "time" : "Mon May 21 2018 10:21:17 GMT+0530 (IST)",
+            "text" : "not good",
+            "fullname" : "GCK",
+            "userID" : "5ae1691241ce6c991f45b7fc",
+            "_id" : ObjectId("5b0250454895a33d2238e820")
+        }, 
+        {
+            "time" : "Mon May 21 2018 10:21:17 GMT+0530 (IST)",
+            "text" : "not good",
+            "fullname" : "GCK",
+            "userID" : "5ae1691241ce6c991f45b7fc",
+            "_id" : ObjectId("5b0250454895a33d2238e820")
+        }, 
+        {
+            "time" : "Mon May 21 2018 10:21:17 GMT+0530 (IST)",
+            "text" : "not good",
+            "fullname" : "GCK",
+            "userID" : "5ae1691241ce6c991f45b7fc",
+            "_id" : ObjectId("5b0250454895a33d2238e820")
+        }, 
+        {
+            "time" : "Mon May 21 2018 10:21:17 GMT+0530 (IST)",
+            "text" : "not good",
+            "fullname" : "GCK",
+            "userID" : "5ae1691241ce6c991f45b7fc",
+            "_id" : ObjectId("5b0250454895a33d2238e820")
+        }
+    ],
+    "reschedulingLastMin" : "2112",
+    "reschedulingWeek" : "39",
+    "sessionBreak" : "545",
+    "sessionDuration" : "455",
+    "sessionperWeek" : "31",
+    "settingLanguage" : "en-US",
+    "showPricing" : false,
+    "specialist" : [ 
+        "Alcoholism", 
+        "Anxiety", 
+        "Antisocial personality disorder", 
+        "Addiction to drugs", 
+        "Addiction to internet"
+    ],
+    "targetGroup" : [ 
+        "Elderly 65+", 
+        "Children 0 -13 years", 
+        "Adolescents 14 - 21 years"
+    ],
+    "therapistAboutUs" : "about myself",
+    "therapistCertifications" : [],
+    "therapistCountry" : "India",
+    "therapistLanguage" : [ 
+        "Czech", 
+        "Mandarin"
+    ],
+    "treatmentApproch" : [ 
+        "Geshtalt"
+    ],
+    "treatmentApprochOthers" : null,
+    "userBanedByAdmin" : true,
+    "userID" : "5ab0b76c9a2787e83c30e2bb",
+    "userNotes" : [ 
+        {
+            "_id" : ObjectId("5aec183b83a04f5a3f3ac286"),
+            "userID" : "5ad6cda056e2edd11a902a01",
+            "mail" : "raaj@gmail.com",
+            "Notes" : [ 
+                {
+                    "_id" : ObjectId("5aec2d8a93acc78e4e7fcc7b"),
+                    "time" : "Fri May 04 2018 15:23:14 GMT+0530 (IST)",
+                    "sessionNo" : "1",
+                    "noteText" : "hello dear"
+                }, 
+                {
+                    "_id" : ObjectId("5aec3686de25aa30573b0d99"),
+                    "time" : "Fri May 04 2018 16:01:34 GMT+0530 (IST)",
+                    "sessionNo" : "2",
+                    "noteText" : "hello new sessuon"
+                }
+            ]
+        }, 
+        {
+            "mail" : "avnipatel304@gmail.com",
+            "userID" : "5ab0a4c6f4c20fb52853b578",
+            "_id" : ObjectId("5b190655890e65174baa648c"),
+            "Notes" : []
+        }
+    ],
+    "usertype" : "therapist",
+    "verifiedBadge" : false,
+    "workMethod" : [ 
+        {
+            "_id" : ObjectId("5ab0cee4e7944f62591e4250"),
+            "currency" : "₹",
+            "setPrice" : "30",
+            "workMethodType" : "Couple",
+            "workMethodFlag" : true
+        }, 
+        {
+            "_id" : ObjectId("5ab0ec5ae5fd0f35642b8705"),
+            "currency" : "₹",
+            "setPrice" : "20",
+            "workMethodType" : "Group",
+            "workMethodFlag" : false
+        }, 
+        {
+            "_id" : ObjectId("5ab0fac708dae7c773588399"),
+            "currency" : "₹",
+            "setPrice" : "50",
+            "workMethodType" : "Individual",
+            "workMethodFlag" : true
+        }
+    ],
+    "workingDays" : [],
+    "workingHours" : {
+        "untill" : "170",
+        "from" : "20"
+    }
+}

@@ -1,0 +1,105 @@
+[{
+	"__v" : 0,
+	"_id" : ObjectId("5a3b7d61f8e95717de7141e0"),
+	"networkGroup_createdDateTime" : ISODate("2017-12-21T14:52:41.795+05:30"),
+	"networkGroup_status" : "1",
+	"networkGroupNetwork_id" : ObjectId("5a005fc1380d7970b4f80589")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a3b8905f8e95717de7141e3"),
+	"networkGroup_createdDateTime" : ISODate("2017-12-21T15:42:21.990+05:30"),
+	"networkGroup_status" : "1",
+	"networkGroupNetwork_id" : ObjectId("5a325cf6f46308376ed1b3b1")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a3b9178f8e95717de7141e4"),
+	"networkGroup_createdDateTime" : ISODate("2017-12-21T16:18:24.694+05:30"),
+	"networkGroup_status" : "1",
+	"networkGroupNetwork_id" : ObjectId("5a005fc1380d7970b4f80589")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a3e166a649d221ad96a616a"),
+	"networkGroup_createdDateTime" : ISODate("2017-12-23T14:10:10.783+05:30"),
+	"networkGroup_status" : "1",
+	"networkGroupNetwork_id" : ObjectId("5a27d9ce7de6a111ee30188f")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a3e2104649d221ad96a616b"),
+	"networkGroup_createdDateTime" : ISODate("2017-12-23T14:55:24.030+05:30"),
+	"networkGroup_status" : "1",
+	"networkGroupNetwork_id" : ObjectId("5a005fc1380d7970b4f80589")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a3e211c649d221ad96a616e"),
+	"networkGroup_createdDateTime" : ISODate("2017-12-23T14:55:48.535+05:30"),
+	"networkGroup_status" : "1",
+	"networkGroupNetwork_id" : ObjectId("5a33c76e11cc803b23e06452")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a40b561649d221ad96a6181"),
+	"networkGroup_createdDateTime" : ISODate("2017-12-25T13:52:57.814+05:30"),
+	"networkGroup_status" : "1",
+	"networkGroupNetwork_id" : ObjectId("5a33f7ae326e1d6282c8b6b2")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a40bf81d025ca218a61ec3b"),
+	"networkGroup_createdDateTime" : ISODate("2017-12-25T14:36:09.155+05:30"),
+	"networkGroup_status" : "1",
+	"networkGroupNetwork_id" : ObjectId("5a40be2e649d221ad96a618e")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a4a6b7e9f753921f461a74b"),
+	"networkGroup_createdDateTime" : ISODate("2018-01-01T22:40:22.505+05:30"),
+	"networkGroup_status" : "1",
+	"networkGroupNetwork_id" : ObjectId("5a4a645c9f753921f461a749")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a4c970b9f753921f461a74f"),
+	"networkGroup_createdDateTime" : ISODate("2018-01-03T14:10:43.653+05:30"),
+	"networkGroup_status" : "1",
+	"networkGroupNetwork_id" : ObjectId("5a40a57e649d221ad96a617b")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a4cd798f8d8201283bf438e"),
+	"networkGroup_createdDateTime" : ISODate("2018-01-03T18:46:08.618+05:30"),
+	"networkGroup_status" : "1",
+	"networkGroupNetwork_id" : ObjectId("5a3e2176649d221ad96a6172")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a764a5eae99290dfd71e28e"),
+	"networkGroup_createdDateTime" : ISODate("2018-02-04T05:18:46.834+05:30"),
+	"networkGroup_status" : "1",
+	"networkGroupNetwork_id" : ObjectId("5a2f6e8482a8b81773682172")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a764a5fae99290dfd71e291"),
+	"networkGroup_createdDateTime" : ISODate("2018-02-04T05:18:47.906+05:30"),
+	"networkGroup_status" : "1",
+	"networkGroupNetwork_id" : ObjectId("5a2f6e8482a8b81773682172")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a7bc2340095e70a5bf156cd"),
+	"networkGroup_createdDateTime" : ISODate("2018-02-08T08:51:24.329+05:30"),
+	"networkGroup_status" : "1",
+	"networkGroupNetwork_id" : ObjectId("5a1468f406f22d445b17b298")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a7bc2350095e70a5bf156ce"),
+	"networkGroup_createdDateTime" : ISODate("2018-02-08T08:51:25.435+05:30"),
+	"networkGroup_status" : "1",
+	"networkGroupNetwork_id" : ObjectId("5a1468f406f22d445b17b298")
+}]
